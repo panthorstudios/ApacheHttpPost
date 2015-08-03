@@ -22,7 +22,7 @@ import org.apache.http.util.EntityUtils;
 
  
 public class ApacheHttpPost {
-    private static final String url="https://alert.victorops.com/integrations/generic/20131114/alert/68a75f69-38df-4cb8-9d14-93930c46bfbd/everyone";
+    private static final String url="https://alert.victorops.com/integrations/generic/20131114/alert/xxxxxxxxxxxxxxxxxxxxxxxxxxxx/everyone";
  
     public static void main(String[] args) {
         CloseableHttpClient httpClient = HttpClients.createDefault();
